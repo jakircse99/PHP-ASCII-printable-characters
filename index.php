@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
     <style>
         body {
-            margin: 50px;
+            margin: 60px;
             text-align: center;
         }
     </style>
